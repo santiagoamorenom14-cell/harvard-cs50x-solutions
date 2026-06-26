@@ -4,7 +4,7 @@
 
 Welcome to my repository for **Harvard University's CS50x (Introduction to Computer Science)**. 
 
-This space is not just a dump of code; it is a live documentation of my learning process. Here, I track my progress, document my design choices, and store my personal solutions to the course's problem sets as I build my foundational knowledge in computer science.
+This space is not just a dump of code; it is a live documentation of my learning process. In this repository, I track my progress, document my design choices, and store my personal solutions to the course's problem sets as I build my foundational knowledge in computer science.
 
 ---
 
