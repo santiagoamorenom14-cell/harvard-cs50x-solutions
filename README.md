@@ -1,35 +1,45 @@
-# harvard-cs50x-solutions
+# Harvard-cs50x-solutions
 
-Repositorio con mis apuntes y soluciones personales a los ejercicios del curso CS50x (Harvard). Este repositorio es una colección de apuntes y código destinados a mi aprendizaje personal y a documentar mi proceso de resolución de problemas durante el curso.
+# 👨‍💻 Harvard CS50x — Learning Journey & Solutions
 
-## Aviso de integridad académica (Honor Code)
+Welcome to my repository for **Harvard University's CS50x (Introduction to Computer Science)**. 
 
-IMPORTANTE — Uso educativo y cumplimiento del code of honor:
-
-- Las soluciones aquí publicadas son mi trabajo personal y están pensadas para estudio y referencia técnica.
-- No deben usarse para presentar tareas como propias en cursos con políticas de integridad académica (incluyendo CS50x). Si estás matriculado en CS50x u otro curso con normas de honor, consulta las reglas del curso antes de reutilizar este material.
-- Para evitar incentivar el plagio, cuando corresponda incluiré explicaciones, pseudocódigo y notas de aprendizaje en lugar de respuestas completas.
-
-## Estado del repositorio
-
-Este repositorio está intencionalmente vacío por ahora: crearé las carpetas de los problem sets (ps0, ps1, ...) y añadiré soluciones y tests a medida que avance en el curso.
-
-## Uso rápido (quickstart)
-
-1. Clona el repositorio:
-
-```bash
-git clone https://github.com/santiagoamorenom14-cell/harvard-cs50x-solutions.git
-cd harvard-cs50x-solutions
-```
-
-2. Cuando añada un problem set, crearé una carpeta `psN/` con:
-- `README.md` del problem set (enunciado y enfoque)
-- `src/` (código)
-- `tests/` (casos de prueba)
-
-3. Para cualquier duda sobre el contenido o el uso, abre un issue o contacta conmigo.
+This space is not just a dump of code; it is a live documentation of my learning process. Here, I track my progress, document my design choices, and store my personal solutions to the course's problem sets as I build my foundational knowledge in computer science.
 
 ---
 
-Licencia: MIT. Si prefieres otra licencia, dímelo y la actualizo.
+## ⚖️ Academic Integrity & Honor Code
+
+**IMPORTANT NOTICE — PLEASE READ:**
+
+*   **Educational Purpose Only:** Every line of code in this repository represents my own personal work and is shared strictly for technical reference, study, and peer review.
+*   **No Plagiarism:** If you are currently enrolled in CS50x or any course with strict academic integrity rules, **please do not copy-paste my solutions.** Submitting someone else's code as your own violates the Harvard Honor Code and defeats the purpose of learning.
+*   **Focus on Logic:** To respect the course guidelines and encourage true problem-solving, my documentation will focus heavily on pseudocode, architecture decisions, and logic explanations rather than just raw answers.
+
+---
+
+## 🗺️ Repository Structure & Status
+
+> 🛑 **Current Status:** This repository is a work in progress! I am building this during my 2026 summer break. Folders for each week (`ps0`, `ps1`, etc.) will appear as I advance through the curriculum.
+
+Each problem set folder (`psN/`) will be structured as follows to keep the workspace clean and professional:
+*   `README.md` — Quick breakdown of the problem, algorithmic approach, and key learnings.
+*   `src/` — The source code written in C, Python, SQL, or JavaScript.
+*   `tests/` — Personal unit tests and edge cases to ensure the solution is robust.
+
+---
+
+## 🛠️ Quickstart
+
+If you want to explore the code or test the logic locally on your machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/santiagoamorenom14-cell/harvard-cs50x-solutions.git](https://github.com/santiagoamorenom14-cell/harvard-cs50x-solutions.git)
+Navigate to the directory:
+
+Bash
+cd harvard-cs50x-solutions
+Feel free to open an issue if you have any questions about my notes or code!
+
+License: MIT — Open for educational and reference use.
