@@ -8,7 +8,7 @@ Final project for **Problem Set 0** of [CS50x](https://cs50.harvard.edu/x/) (Har
 
 ## Game Description
 
-Chef in a Hurry is a skill and reflex game where you control a frying pan that catches ingredients falling from the top of the kitchen. Catching an apple adds points; catching a frog costs a life. The goal is to reach 15 points before losing all 3 lives. Fall speed increases over time, raising the difficulty progressively.
+Chef in a Hurry is a skill and reflex game where you control a frying Bowl that catches ingredients falling from the top of the kitchen. Catching an apple adds points; catching a frog costs a life. The goal is to reach 15 points before losing all 3 lives. Fall speed increases over time, raising the difficulty progressively.
 
 ## Requirements Checklist
 
