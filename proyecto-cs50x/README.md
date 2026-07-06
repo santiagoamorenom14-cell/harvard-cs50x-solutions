@@ -12,7 +12,7 @@ Chef in a Hurry is a skill and reflex game where you control a frying pan that c
 
 ## Requirements Checklist
 
-- ✅ At least 2 sprites (one different from the cat) — 3 sprites: `Pan`, `Apple`, `Frog`
+- ✅ At least 2 sprites (one different from the cat) — 3 sprites: `Bowl`, `Apple`, `Frog`
 - ✅ At least 3 scripts total — 4 scripts across the 3 sprites
 - ✅ At least 1 conditional — `if <touching...?> then / else` for collisions, `if <lives <= 0>` for game over
 - ✅ At least 1 loop — `forever` blocks for movement, falling, and state checks
@@ -22,7 +22,7 @@ Chef in a Hurry is a skill and reflex game where you control a frying pan that c
 
 ## Sprites Used
 
-- **Pan** — controlled by the player with left/right arrow keys. Moves horizontally at the bottom of the stage. Contains initialization and game-over logic.
+- **Bowl** — controlled by the player with left/right arrow keys. Moves horizontally at the bottom of the stage. Contains initialization and game-over logic.
 - **Apple** — good ingredient. Falls continuously; catching it adds a point and repositions it via the custom block.
 - **Frog** — bad ingredient. Falls the same way; catching it subtracts a life instead of adding points.
 
@@ -34,7 +34,7 @@ Chef in a Hurry is a skill and reflex game where you control a frying pan that c
 
 ## Game Logic
 
-On green flag click, variables initialize (`points = 0`, `lives = 3`, `fallSpeed = 4`) and each sprite starts its own `forever` loop. `Pan` responds to arrow keys, while a second loop continuously checks for game-over conditions.
+On green flag click, variables initialize (`points = 0`, `lives = 3`, `fallSpeed = 4`) and each sprite starts its own `forever` loop. `Bowl` responds to arrow keys, while a second loop continuously checks for game-over conditions.
 
 `Apple` and `Frog` fall independently. On touching `Pan` or the bottom edge, they call `resetIngredient`, which repositions them at the top and slightly increases `fallSpeed`. The game ends when `lives` reaches 0 (loss) or `points` reaches 15 (win).
 
