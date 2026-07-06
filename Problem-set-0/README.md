@@ -52,6 +52,11 @@ Used `pick random (-220) to (220)` inside `resetIngredient` to vary the horizont
 **Game not stopping correctly on win/loss**
 Replaced `stop [this script]` with `stop [all]` to freeze every script when a win/loss condition is met.
 
+## Demo
+
+Play "Chef in a Hurry" on Scratch:  
+https://scratch.mit.edu/projects/1351728496/
+
 ## Technologies Used
 
 - [Scratch](https://scratch.mit.edu/) 
