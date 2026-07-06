@@ -1,4 +1,4 @@
-# harvard-cs50x-solutions
+# Harvard-cs50x-solutions
 
 ## 👨‍💻 Harvard CS50x — Learning Journey & Solutions
 
