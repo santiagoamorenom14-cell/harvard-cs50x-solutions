@@ -22,7 +22,7 @@ Chef in a Hurry is a game where you control a frying Bowl that catches ingredien
 
 ## Sprites Used
 
-- **Bowl** — controlled by the player with left/right arrow keys. Moves horizontally at the bottom of the stage. Contains initialization and game-over logic.
+- **Bowl** — controlled by the player with left/right arrow keys. Moves horizontally at the bottom of the stage.
 - **Apple** — good ingredient. Falls continuously; catching it adds a point and repositions it via the custom block.
 - **Frog** — bad ingredient. Falls the same way; catching it subtracts a life instead of adding points.
 
@@ -50,7 +50,6 @@ The `speed` parameter is local to the block definition. Fixed by using it to upd
 Used `pick random (-220) to (220)` inside `resetIngredient` to vary the horizontal position on each reset.
 
 **Game not stopping correctly on win/loss**
-Replaced `stop [this script]` with `stop [all]` to freeze every script when a win/loss condition is met.
 
 ## Demo
 
