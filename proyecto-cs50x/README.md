@@ -67,6 +67,6 @@ Replaced `stop [this script]` with `stop [all]` to freeze every script when a wi
 
 ## Author & License
 
-**[Your Name]** — GitHub: [@your-username](https://github.com/your-username) — Course: CS50x, Problem Set 0
+**[Your Name]** — GitHub: [@santiagoamorenom14-cell](https://github.com/santiagoamorenom14-cell) — Course: CS50x, Problem Set 0
 
 Licensed under the MIT License. See [LICENSE](./LICENSE) for details.
