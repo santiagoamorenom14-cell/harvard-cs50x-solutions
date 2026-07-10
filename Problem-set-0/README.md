@@ -68,8 +68,4 @@ https://scratch.mit.edu/projects/1351728496/
 - [Scratch](https://scratch.mit.edu/) 
 - [CS50x](https://cs50.harvard.edu/x/) 
 
-## Author & License
 
-**[Santiago Moreno]** — GitHub: [@santiagoamorenom14-cell](https://github.com/santiagoamorenom14-cell) — Course: CS50x, Problem Set 0
-
-Licensed under the MIT License. See [LICENSE](./LICENSE) for details.
